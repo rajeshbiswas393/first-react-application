@@ -23,6 +23,9 @@ function Navbar(props) {
                 <Link className="nav-link" to="/news">News</Link>
             </li>
             <li className="nav-item">
+                <Link className="nav-link" to="/teams">Teams</Link>
+            </li>
+            <li className="nav-item">
                 <Link className="nav-link" to="/contact-us">Contact Us</Link>
             </li>
             </ul>
